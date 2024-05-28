@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshat-Kashyap
 - 👀 I’m interested in AIML/DATA SCIENCE
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data analyst, Data Science, Data Engineering Jobs or Project
 - 📫 How to reach me akshatkashyap862@gmail.com
 
 <!---
